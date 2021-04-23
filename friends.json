@@ -1,0 +1,36 @@
+[{
+		"name": "Juan",
+		"hobby": "soccer",
+		"age": 21,
+		"phone": "3312789000",
+		"address": "Almeria 230"
+	},
+	{
+		"name": "Diego",
+		"hobby": "baseball",
+		"age": 19,
+		"phone": "3312328670",
+		"address": "Colonia 240"
+	},
+	{
+		"name": "Eduardo",
+		"hobby": "videogames",
+		"age": 21,
+		"phone": "3312431234",
+		"address": "Lilas 430"
+	},
+	{
+		"name": "Luis",
+		"hobby": "reading",
+		"age": 22,
+		"phone": "3313439120",
+		"address": "Dorado 134"
+	},
+	{
+		"name": "Jaime",
+		"hobby": "dancing",
+		"age": 24,
+		"phone": "3313412212",
+		"address": "Prado 12"
+	}
+]
